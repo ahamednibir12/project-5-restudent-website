@@ -183,6 +183,7 @@ nav {
 
 footer {
   background-color: #fff0db;
+  width: 80%;
 }
 
 .link-lists h3 {
@@ -213,6 +214,7 @@ footer {
   padding: 30px;
   display: flex;
   justify-content: space-between;
+
 }
 
 .icon-container {
@@ -238,7 +240,7 @@ footer {
   .hero-content {
     gap: 10px;
 
-    padding: 0 20px;
+    padding: 20px;
   }
 
   .hero-content h1 {
